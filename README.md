@@ -14,3 +14,5 @@ if you have no Idea for your project, we can give you some (deducting 20% from y
      present your project during the last Lab session on 6.1.2022
      duration 20 min., (PowerPoint/Beamer/...)
 
+# Project
+Finding optimal optical character recognition for CAPTCHA codes(images).
