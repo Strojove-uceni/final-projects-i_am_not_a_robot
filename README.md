@@ -14,3 +14,15 @@ if you have no Idea for your project, we can give you some (deducting 20% from y
      present your project during the last Lab session on 6.1.2022
      duration 20 min., (PowerPoint/Beamer/...)
 
+# Project
+Finding optimal optical character recognition for CAPTCHA codes(images).
+
+Files description:
+
+* create_dataset.ipynb - for creating datasets used in project 
+
+* captcha_model.ipynb - main model for captcha recognition 
+
+* captcha_model_2.ipynb - same model as in captcha_model.ipynb, but instead of loading training data it creates dataset locally and these data are replaced with new one every couple of iteration
+
+* results.ipynb - trained networks are loaded from google drive (or can be found in github folder models) and demo files of captcha codes are evaluated on these newtorks (demo datasets also in google drive or in folder samples)
